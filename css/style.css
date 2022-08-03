@@ -1,0 +1,141 @@
+header{
+    width: 1260px;
+    height: 100px;
+    display: flex;
+    background-color: #fff;
+    margin: 0 auto;
+    border: 1px solid;
+}
+.navbar{
+    width: 600px;
+    height: 100px;
+    display: flex;
+    flex: 6;
+   
+}
+.logotip{
+    width: 600px;
+    height: 100px;
+   padding-top: 20px;
+   padding-left: 20px;
+    flex: 6;
+   
+}
+.hedr-li{
+    display: flex;
+    flex: 4;
+    
+}
+.hedr-ul{
+    display: flex;
+    flex: 12;
+}
+.rasm{
+    Width:14px;
+    Height:24.56px;
+}
+main{
+    width: 1260px;
+   
+    margin: 0 auto;
+    border: 1px solid;
+}
+.section-1{
+    width: 1260px;
+    border: 1px solid;
+    display: flex;
+    flex: 12;
+    background-color: #F0F0F0;
+    height: 700px;
+}
+.section-1-left{
+    display: inline-block;
+    flex: 6;
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.section-1-right{
+    display: flex;
+    flex: 6;
+    Width:436px;
+    Height:617px;
+    margin-top: 50px;
+   
+}
+.button_1{
+    background-color: red;
+}
+.button-1{
+    align-items:center;
+    justify-content: space-evenly;
+    width: 480px;
+    height: 64px;
+}
+.button_1{
+    margin-right:  100px;
+}
+.section-2{
+    width: 1260px;
+    margin: 0 auto;
+    display: flex;
+    flex: 6;
+    
+}
+.section-2_left{
+    display: inline-block;
+    text-align:justify;
+   
+    flex: 3;
+    justify-content: center;
+    align-items: center;     
+   
+   
+      
+}
+.section-2_right{
+    display: inline-block;
+    flex: 3;
+    width: 720px;
+height: 582px;
+border: 1px solid;
+
+  
+}
+.s1{
+    Width:158px;
+Height:158px;
+background-color: 
+#161A2B;
+margin: 5px 5px;
+
+font-size: 10px;
+
+}
+.section-2_1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../image/bacground\ img.jpg");
+    background-size: auto;
+    Width:720px;
+    Height:582px;
+    }
+    
+
+.section-2_2{
+    display: flex;
+    
+
+}
+.xato{
+    font-size: 20px;
+   color: #fff;
+ 
+    
+}
+.xatoo{
+    color: #fff;
+}
